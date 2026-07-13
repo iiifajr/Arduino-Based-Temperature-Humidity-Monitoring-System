@@ -62,7 +62,18 @@ The system's firmware was developed in C++ within the Arduino IDE workspace, rel
 
 ## 👥 Project Team & Affiliation
 
-- **Lead Engineer:** Eng. Fajr Aldajani
-- **Prepared By:** In cooperation with 3 engineering students (Academic Project)
-- **Affiliation:** Taif University
-- **Project Status:** Completed Successfully! 🚀
+* **Eng. Fajr Aldajani**
+  * 🔗 [GitHub Profile](https://github.com/engfajr)
+
+* **Noura Abbad Al-Qathami**
+  * 🔗 [GitHub Profile](https://github.com/alotibin212-glitch)
+
+* **Batool Falah Alguthami**
+  * 🔗 [GitHub Profile](https://github.com/user)
+
+* **Asayel Hussain Al-Nufaiey**
+  * 🔗 [GitHub Profile](https://github.com/user)
+
+---
+* **Affiliation:** Taif University
+* **Project Status:** Completed Successfully! 🚀
